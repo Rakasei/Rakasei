@@ -1,5 +1,5 @@
 
-## ¡Hola! 
+## ¡Hello! 
 
 - 🔭 I’m currently working on Wordpress
 - 🌱 I’m currently learning PHP and Wordpress
