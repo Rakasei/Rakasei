@@ -1,6 +1,11 @@
 
 ## ¡Hola! 
 
+- 🔭 I’m currently working on Wordpress
+- 🌱 I’m currently learning PHP and Wordpress
+- 💬 Ask me about anything!
+- 📫 How to reach me: rodrigo.ezequiel.ruiz@gmail.com
+- 😄 Pronouns: He/Him
     
    
 <!--
